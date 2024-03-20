@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@cucumber/cucumber": "^10.3.1"
+  },
+  "dependencies": {
+    "puppeteer": "^22.5.0"
   }
 }
