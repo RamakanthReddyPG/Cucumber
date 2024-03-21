@@ -1,0 +1,10 @@
+oneTrust:
+     oneTrustTitle: "//h2[@id='onetrust-policy-title']"
+     oneTrustGroupContainer: "//div[@id='onetrust-group-container']"
+     OneTrustPolicyText: "//div[@id='onetrust-policy-text']"
+     oneTrustAcceptCTA: "//button[@id='onetrust-accept-btn-handler']"
+     oneTrustRejectCTA: "//button[@id='onetrust-pc-btn-handler']"
+     oneTrustDPDTitle: "//div//h3[@class='ot-dpd-title']"
+     oneTrustDPDdescription: "//div//p[@class='ot-dpd-desc']"
+
+

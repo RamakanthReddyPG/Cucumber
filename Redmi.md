@@ -10,3 +10,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/RamakanthReddyPG/example.git
 git push -u origin main
+
+
+chmod -R +x Cucumber/
+chmod +x Cucumber/
+cd ../../../
